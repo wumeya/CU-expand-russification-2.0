@@ -29,6 +29,7 @@
 
  - [Мой тгк с личной жизнью и т.п](https://t.me/onesharkboy_II)
  - [Откуда я впринципе взял идею](https://github.com/Orsoniks/scavgame-locale/pull/83](https://github.com/CheBuRek8176/CU-expand-russification))
+ - [Тгк Чебурека](https://t.me/cu_exp_russifier)
 
 ### Таб обновлений:
 - 17.07.26 - залит сама локализация
