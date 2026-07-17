@@ -32,7 +32,7 @@
 ## ССЫЛОЧКИ!
 
  - [Мой тгк с личной жизнью и т.п](https://t.me/onesharkboy_II)
- - [Оригинал перевода, ну и впринцепе откуда я взял идею и на который находится мой форк]([https://github.com/Orsoniks/scavgame-locale/pull/83](https://github.com/CheBuRek8176/CU-expand-russification))
+ - [Откуда я впринцепе взял идею]([https://github.com/Orsoniks/scavgame-locale/pull/83](https://github.com/CheBuRek8176/CU-expand-russification))
 
 ### Таб обновлений:
 - 17.07.26 - залит сама локализация
