@@ -1,4 +1,4 @@
-# CU-expand-russification
+#SCAV-russification-localization
 
 ## Полная(на данный момент) локализация SCAV
 
